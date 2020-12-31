@@ -39,6 +39,11 @@ end
 function ENT:StartTouch(OtherENT)
 	if OtherENT: IsPlayer() then 
 		BroadcastLua([[gui.OpenURL( "https://tinyurl.com/y9b5cl82" )]])
+		--[[The curent url is just a place holder and connects you to a random server I picked to use a diffrent ip 
+		do steam://connect/TheIpHere put the ip where it says the ip here with no space then paste the link into 
+		your web browser and make sure it works then you must make it a https: url the easiest way to do that is
+		to go to a url shortner like tinyurl watch out tho some url shortners dont work like bit.ly for some reason 
+		however tinyurl differently works--]]
 
 	end
 end
