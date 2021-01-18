@@ -3,5 +3,4 @@ This is a script that allows for a client to be sent to a different server when 
 
 If you want to change the placeholder IP that it curently links to go to the server 1 folder then go to the init.lua(server side) file and read the commented instructions there 
 
-If you want to make another entity that links to another server just copy and paste the server 1 folder but just change the name of the ENT in the shared.lua folder and change 
-change the ip link per the instructions in the init.lua (server side file) 
+If you want to make another entity that links to another server just copy and paste the server 1 folder but just change the name of the ENT in the shared.lua folder and change  the ip link per the instructions in the init.lua (server side file) 
